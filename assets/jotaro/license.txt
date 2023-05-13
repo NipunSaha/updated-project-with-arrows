@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jotaro Kujo - Idle - Unity
+* source:	https://sketchfab.com/3d-models/jotaro-kujo-idle-unity-03309a5dd9bc413fa0105597a7755ae9
+* author:	Maxime66410 (https://sketchfab.com/Maxime66410)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jotaro Kujo - Idle - Unity" (https://sketchfab.com/3d-models/jotaro-kujo-idle-unity-03309a5dd9bc413fa0105597a7755ae9) by Maxime66410 (https://sketchfab.com/Maxime66410) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
